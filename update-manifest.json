@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.3.18",
-  "releaseNotes": "修复抖音媒体下载：通过内置 WebView 完成风控验证并捕获真实视频流；保留实时下载百分比。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.18/app-debug.apk",
-  "sha256": "458f000a1208d0c2d2ba6f8e85f63d1705d7de262d20dc94dc31215ee083c1a1"
+  "versionCode": 29,
+  "versionName": "0.3.22",
+  "releaseNotes": "修复抖音下载视频无声音：自动捕获独立音频轨并与视频轨合并保存。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.22/app-debug.apk",
+  "sha256": "e32ab53b7a0a1c8ac83a1e17b4a24b4fedd946419a8094b5c77917c323468ad1"
 }
