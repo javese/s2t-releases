@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.3.23",
-  "releaseNotes": "优化下载完成通知：完成后停止转圈；点击通知打开文件所在的听记下载文件夹。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.23/app-debug.apk",
-  "sha256": "f9ebb2c959431375b74079107e9eddcaad057254e117e6f0bebfe888a46ac664"
+  "versionCode": 31,
+  "versionName": "0.3.24",
+  "releaseNotes": "更新清单地址默认隐藏；连续点击版本号三次后显示高级编辑入口。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.24/app-debug.apk",
+  "sha256": "db1c7186a99e652b70abf5cad2e76e30ab84ade70a4229588c6af6540b60c82b"
 }
