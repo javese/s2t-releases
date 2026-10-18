@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.3.26",
-  "releaseNotes": "修复视频号下载卡在固定进度：增加 35 秒停滞检测、三次自动重试和断点续传。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.26/app-debug.apk",
-  "sha256": "31d31b8772f704b7d08774c67592fd81ca34b470e416716e49c75314ed676dd5"
+  "versionCode": 34,
+  "versionName": "0.3.27",
+  "releaseNotes": "修复视频号使用云端 API 转写时文件过大：先在本地提取视频音轨，仅上传音频进行识别。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.27/app-debug.apk",
+  "sha256": "80cca9fbeeda1b7b46b75337398c46b0c1e6f58e5868faa300cf261911d84f1c"
 }
