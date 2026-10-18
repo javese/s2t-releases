@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.3.25",
-  "releaseNotes": "新增 SenseAudio 云端转写引擎，支持 api.senseaudio.cn 和 senseaudio-asr-1.5-260319 模型。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.25/app-debug.apk",
-  "sha256": "dfa6b8ab6497d5b3bbaa0e2a10fddce9f24a4897350ae27ef8b2df753020b659"
+  "versionCode": 33,
+  "versionName": "0.3.26",
+  "releaseNotes": "修复视频号下载卡在固定进度：增加 35 秒停滞检测、三次自动重试和断点续传。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.26/app-debug.apk",
+  "sha256": "31d31b8772f704b7d08774c67592fd81ca34b470e416716e49c75314ed676dd5"
 }
