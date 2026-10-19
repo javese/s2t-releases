@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.3.28",
-  "releaseNotes": "支持应用在后台持续下载和处理音视频：增加 CPU 唤醒锁、前台任务保活和系统回收后的任务恢复。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.28/app-debug.apk",
-  "sha256": "bbc8cb130c80c98bd851b7eb257d18fb6a10eff1a721a84167b3b0f4faddfde8"
+  "versionCode": 36,
+  "versionName": "0.3.29",
+  "releaseNotes": "新增正在处理任务的取消功能：支持取消转写、媒体下载和音频提取；文字稿详情保留并可复制原始音视频链接。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.29/app-debug.apk",
+  "sha256": "78ecc631e8628ea61515d9a9eb63d2cb5c687b51956e827853c5fda6d8922e5b"
 }
