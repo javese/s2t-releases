@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.3.29",
-  "releaseNotes": "新增正在处理任务的取消功能：支持取消转写、媒体下载和音频提取；文字稿详情保留并可复制原始音视频链接。",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.29/s2t.apk",
-  "sha256": "78ecc631e8628ea61515d9a9eb63d2cb5c687b51956e827853c5fda6d8922e5b"
+  "versionCode": 39,
+  "versionName": "0.3.32",
+  "releaseNotes": "新增下载历史；修复视频号媒体因 CDN 长度不一致而卡住的问题；修复下载完成后通知栏仍显示正在下载。",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/s2t-releases/releases/download/v0.3.32/app-debug.apk",
+  "sha256": "43098b79038f305d040cd2ffcce6cd54ba24d49c583d3c9d5a6578ff9658f4cb"
 }
